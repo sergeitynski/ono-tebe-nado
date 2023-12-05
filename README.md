@@ -1,1 +1,1 @@
-https://github.com/sergeitynski/ono-tebe-nadoo/
+https://github.com/sergeitynski/ono-tebe-nado
