@@ -50,6 +50,7 @@
   display: flex;
   flex-direction: column;
   max-width: 240px;
+  font-size: 18px;
   line-height: 135%;
 }
 
@@ -200,10 +201,10 @@
   background-size: cover;
 }
 
-.lots__card-linkk {
-  position: absolute;
+.lots__card-link {
   width: 100%;
   height: 100%;
+  text-decoration: none;
 }
 
 /* BACKGROUND FOR card__items */
